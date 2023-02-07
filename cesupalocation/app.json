@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cesupalocation",
+    "slug": "cesupalocation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
